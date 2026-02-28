@@ -1,15 +1,53 @@
 # Supply-Chain-Report---Power-BI
-This project presents a comprehensive Supply Chain Analysis Dashboard built in Power BI, designed to monitor and optimize supply chain operations. By leveraging Power Query for ETL and advanced DAX measures, the dashboard transforms raw regional sales data into actionable insights.
-🔑 Key Features-
-- Warehouse & Inventory Trends: Track stock levels, supply flow, and fulfillment efficiency.
-- Issue Analysis: Identify bottlenecks, delays, and supply chain risks.
-- Regional Sales Insights: Evaluate performance across U.S. regions using integrated Excel datasets.
-- Interactive Visuals: Drill-down charts, KPIs, and filters for dynamic reporting.
-- Data Modeling: Structured relationships and measures for accurate supply chain reporting.
-🎯 Purpose:
-The dashboard helps businesses and analysts:-
-- Optimize supply chain efficiency and reduce operational risks.
-- Gain visibility into warehouse performance and regional sales.
-- Support strategic decision-making with clear, data-driven insights.
 
-*DOWNLOAD UPPER FILES TO VIUSALIZE DASHBOARD*
+## 📖 Overview
+This project presents an interactive **Power BI report** focused on supply chain analytics.  
+It demonstrates how raw operational data can be transformed into actionable insights, helping businesses optimize their supply chain performance.
+
+---
+
+## 🔑 Key Features
+- **Inventory Analysis**: Track stock levels, reorder points, and warehouse utilization.  
+- **Supplier Performance**: Evaluate delivery timelines, quality ratings, and cost efficiency.  
+- **Logistics Insights**: Monitor shipment volumes, lead times, and transportation costs.  
+- **ETL with Power Query**: Cleaned and transformed raw supply chain data for accurate reporting.  
+- **Interactive Dashboards**: Slicers, filters, and drill-through options for detailed exploration.  
+
+---
+
+## 🎯 Purpose
+The report is designed to help:
+- Identify bottlenecks in the supply chain  
+- Improve supplier relationships through performance monitoring  
+- Optimize inventory management and reduce carrying costs  
+- Support strategic decision-making with clear visual insights  
+
+---
+
+## 📂 Files in Repository
+- `Supply Chain Report.pbix` → Power BI report file  
+- `Supply Chain Data.xlsx` → Raw dataset used for analysis  
+- `README.md` → Documentation  
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` and `.xlsx` files from this repository.  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Ensure the dataset (`Supply Chain Data.xlsx`) is placed in the same directory or update the data source path.  
+4. Explore the report using interactive visuals and filters.  
+
+---
+
+## 📊 Example Insights
+- Supplier delivery performance trends  
+- Inventory turnover ratios  
+- Cost breakdown across logistics channels  
+- Forecasted demand vs. actual supply  
+
+---
+
+## 🤝 Contributing
+This is a practice project. Suggestions for improvements, new KPIs, or additional visualizations are welcome!  
+
+---
